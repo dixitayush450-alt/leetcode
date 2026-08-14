@@ -21,8 +21,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
