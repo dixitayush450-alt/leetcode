@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 <!---LeetCode Topics End-->
