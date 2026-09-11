@@ -23,10 +23,12 @@
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
