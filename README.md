@@ -32,4 +32,8 @@
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
