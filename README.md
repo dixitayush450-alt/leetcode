@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0835-image-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dixitayush450-alt/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dixitayush450-alt/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
