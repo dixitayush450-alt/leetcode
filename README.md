@@ -88,4 +88,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
