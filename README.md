@@ -41,6 +41,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -60,6 +61,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -91,6 +93,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
