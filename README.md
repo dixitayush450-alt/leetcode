@@ -41,6 +41,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -51,6 +52,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
