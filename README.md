@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/dixitayush450-alt/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
@@ -50,6 +51,7 @@
 | [0061-rotate-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/dixitayush450-alt/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/dixitayush450-alt/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
