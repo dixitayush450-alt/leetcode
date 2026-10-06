@@ -87,6 +87,7 @@
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/dixitayush450-alt/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/dixitayush450-alt/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dixitayush450-alt/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitayush450-alt/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -157,4 +159,5 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/dixitayush450-alt/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/dixitayush450-alt/leetcode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
