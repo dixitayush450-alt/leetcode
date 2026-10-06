@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/dixitayush450-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/dixitayush450-alt/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0771-jewels-and-stones](https://github.com/dixitayush450-alt/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@
 | [0125-valid-palindrome](https://github.com/dixitayush450-alt/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/dixitayush450-alt/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/dixitayush450-alt/leetcode/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/dixitayush450-alt/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dixitayush450-alt/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
