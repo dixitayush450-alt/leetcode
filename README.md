@@ -134,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/dixitayush450-alt/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/dixitayush450-alt/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dixitayush450-alt/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
