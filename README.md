@@ -121,6 +121,7 @@
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dixitayush450-alt/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/dixitayush450-alt/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/dixitayush450-alt/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/dixitayush450-alt/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Geometry
