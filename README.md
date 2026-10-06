@@ -81,6 +81,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/dixitayush450-alt/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/dixitayush450-alt/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [2235-add-two-integers](https://github.com/dixitayush450-alt/leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Geometry
@@ -142,4 +144,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/dixitayush450-alt/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
