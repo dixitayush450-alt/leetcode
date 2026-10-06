@@ -10,14 +10,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixitayush450-alt/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dixitayush450-alt/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixitayush450-alt/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dixitayush450-alt/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dixitayush450-alt/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dixitayush450-alt/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dixitayush450-alt/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/dixitayush450-alt/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
