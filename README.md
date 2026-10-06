@@ -68,6 +68,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dixitayush450-alt/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/dixitayush450-alt/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -133,6 +134,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/dixitayush450-alt/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/dixitayush450-alt/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/dixitayush450-alt/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dixitayush450-alt/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
