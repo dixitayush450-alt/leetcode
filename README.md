@@ -106,6 +106,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/dixitayush450-alt/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/dixitayush450-alt/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dixitayush450-alt/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/dixitayush450-alt/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
