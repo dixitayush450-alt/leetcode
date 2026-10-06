@@ -27,6 +27,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitayush450-alt/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dixitayush450-alt/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/dixitayush450-alt/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dixitayush450-alt/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/dixitayush450-alt/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
