@@ -26,6 +26,7 @@
 | [0835-image-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dixitayush450-alt/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dixitayush450-alt/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/dixitayush450-alt/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dixitayush450-alt/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/dixitayush450-alt/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
@@ -160,4 +161,8 @@
 | [0191-number-of-1-bits](https://github.com/dixitayush450-alt/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/dixitayush450-alt/leetcode/tree/main/0342-power-of-four/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/dixitayush450-alt/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
