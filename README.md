@@ -121,6 +121,7 @@
 | [0231-power-of-two](https://github.com/dixitayush450-alt/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0836-rectangle-overlap](https://github.com/dixitayush450-alt/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [2235-add-two-integers](https://github.com/dixitayush450-alt/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/dixitayush450-alt/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
